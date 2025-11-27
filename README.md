@@ -2,7 +2,7 @@
 
 💻| Computer Scientist / Driven on Full Stack or Android Development</br>
 🧠| Practicing with challenging projects on my own</br>
-📚| Programming Languaje currently learning : Python</br>
+📚| Programming Languaje currently learning : Typescript</br>
 ☑️| [Instagram](https://www.instagram.com/sahesito/) | My Playlist on Spotify: [Spotify](https://open.spotify.com/playlist/6U6pr17iXRUkJ1FcxrH6bX?si=b051837e55e444ec)</br>
 
 </br>
