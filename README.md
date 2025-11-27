@@ -1,11 +1,11 @@
 ## Hello I'm Sahe
 
 💻| Computer Scientist / Driven on Full Stack or Android Development</br> 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</br>
 🧠| Practicing with challenging projects on my own</br>
 📚| Programming Languaje currently learning : Typescript</br>
 ☑️| [Instagram](https://www.instagram.com/sahesito/) | My Playlist on Spotify: [Spotify](https://open.spotify.com/playlist/6U6pr17iXRUkJ1FcxrH6bX?si=b051837e55e444ec)</br>
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</br>
 </br>
 
 # 💻 Tech Stack:</br>
