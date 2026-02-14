@@ -5,7 +5,7 @@
 📚| Strong interest in backend development and mobile applications</br>
 </br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](/https://www.instagram.com/sahesito) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwin-marchan/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6U6pr17iXRUkJ1FcxrH6bX?si=b051837e55e444ec)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6U6pr17iXRUkJ1FcxrH6bX?si=b051837e55e444ec)
 </br>
 
 # 💻 Tech Stack:
