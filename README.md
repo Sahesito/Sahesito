@@ -5,7 +5,7 @@
 📚| Strong interest in backend development and mobile applications</br>
 </br>
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6U6pr17iXRUkJ1FcxrH6bX?si=b051837e55e444ec)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0)
 </br>
 
 # 💻 Tech Stack:
