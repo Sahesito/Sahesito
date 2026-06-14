@@ -1,6 +1,6 @@
 ## Hello I'm Erwin
 
-💻| Backend & Android Developer focused on building real-world applications </br> 
+💻| FullStack & Android Developer focused on building real-world applications </br> 
 🧠| Experience building REST APIs, JWT authentication and database-driven systems</br>
 📚| Strong interest in backend development and mobile applications</br>
 </br>
