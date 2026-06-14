@@ -34,7 +34,7 @@
 ## 🚀 Cloud & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,firebase,heroku,cloudflare,docker,kubernetes,terraform,jenkins,githubactions" />
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,kubernetes,githubactions" />
   </a>
 </p>
 
