@@ -1,10 +1,15 @@
-## Hello, I'm Erwin 👋
+<h1 align="center">Hey, I'm Erwin 👋</h1>
 
-💻 Backend & Android Developer focused on building real-world applications  
-🧠 Experience building REST APIs, JWT authentication and database-driven systems  
-📚 Strong interest in backend development and mobile applications  
+<p align="center">
+  Full-Stack & Android Developer focused on building systems that are simple, scalable, and maintainable.<br/>
+  Currently deep into backend engineering, mobile development, and software architecture.
+</p>
 
-[![Spotify](https://img.shields.io/badge/My_Playlist-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0)
+<p align="center">
+  <a href="https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0">
+    <img src="https://img.shields.io/badge/My_Playlist-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -70,9 +75,9 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
