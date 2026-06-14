@@ -1,67 +1,87 @@
-## Erwin
+## Hello, I'm Erwin 👋
 
-# Full-Stack & Android Developer.
+💻 Backend & Android Developer focused on building real-world applications  
+🧠 Experience building REST APIs, JWT authentication and database-driven systems  
+📚 Strong interest in backend development and mobile applications  
 
-I enjoy designing systems that are simple, scalable, and maintainable.
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0)
 
-Currently focused on backend engineering, mobile development, and software architecture.
-</br>
-## 🎧 Currently Listening
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spotify&theme=dark" />
-  <link src="https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0?si=e99eb68587934e52"> 
+---
+
+# 💻 Tech Stack
+
+## 🖥️ Programming Languages
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,js,ts" />
+  </a>
 </p>
 
-# 💻 Tech Stack:
-## Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,kotlin,py&theme=dark" />
+## 🎨 Frontend
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,nextjs,react,tailwind" />
+  </a>
 </p>
 
-## Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" />
+## ⚙️ Backend
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,express" />
+  </a>
 </p>
 
-## Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet&theme=dark" />
+## 🚀 Servers & Deployment
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,netlify,firebase,vercel,maven" />
+  </a>
 </p>
 
+## 🗄️ Databases
 
-## DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify&theme=dark" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+  </a>
 </p>
 
+## 📱 Android Stack
 
-## Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase&theme=dark" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,firebase,sqlite,androidstudio" />
+  </a>
 </p>
 
+> Also working with **Jetpack Compose** for modern Android UI development.
 
-## ANDROID 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite&theme=dark" />
+## 🛠️ Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github" />
+  </a>
 </p>
 
+## 🧑‍💻 Editors & IDEs
 
-## TOOLS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,webstorm&theme=dark" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,webstorm" />
+  </a>
 </p>
-</br>
 
-## EDITORS
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
