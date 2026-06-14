@@ -13,7 +13,7 @@
 ## 🖥️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,ts,py,kotlin,go,rust,swift,php,ruby,dart,scala,bash,lua,r" />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin,swift,bash" />
   </a>
 </p>
 
