@@ -27,7 +27,7 @@
 ## ⚙️ Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,django,fastapi,flask,laravel,rails,nestjs,graphql,kafka,nginx,sequelize,prisma,hibernate,apollo" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,fastapi,nestjs,graphql,kafka,nginx,sequelize,prisma" />
   </a>
 </p>
 
