@@ -1,11 +1,13 @@
-## Hello I'm Erwin
+## Erwin
 
-💻| FullStack & Android Developer focused on building real-world applications </br> 
-🧠| Experience building REST APIs, JWT authentication and database-driven systems</br>
-📚| Strong interest in backend development and mobile applications</br>
+#Full-Stack & Android Developer.
+
+I enjoy designing systems that are simple, scalable, and maintainable.
+
+Currently focused on backend engineering, mobile development, and software architecture.
 </br>
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0)
+[![Spotify](https://skillicons.dev/icons?i=Spotify-Light.svg
+)](https://skillicons.dev)
 </br>
 
 # 💻 Tech Stack:
