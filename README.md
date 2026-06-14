@@ -13,7 +13,7 @@
 ## 🖥️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin,swift,bash" />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin,swift" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 ## 🗄️ Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,elasticsearch,dynamodb,cassandra,supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
   </a>
 </p>
 
@@ -57,14 +57,14 @@
 ## 🛠️ Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,gradle,maven,npm,yarn,bash,linux,ansible" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,gradle,maven,npm,yarn,bash,linux" />
   </a>
 </p>
 
 ## 🧑‍💻 Editors & IDEs
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,webstorm,rider,pycharm,eclipse,neovim" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,webstorm,pycharm" />
   </a>
 </p>
 
