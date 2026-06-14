@@ -4,75 +4,67 @@
 🧠 Experience building REST APIs, JWT authentication and database-driven systems  
 📚 Strong interest in backend development and mobile applications  
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0)
+[![Spotify](https://img.shields.io/badge/My_Playlist-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0)
 
 ---
 
 # 💻 Tech Stack
 
 ## 🖥️ Programming Languages
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,ts" />
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,ts,py,kotlin,go,rust,swift,php,ruby,dart,scala,bash,lua,r" />
   </a>
 </p>
 
 ## 🎨 Frontend
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nextjs,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,nuxtjs,svelte,tailwind,bootstrap,sass,materialui,redux,jquery,alpinejs,astro,gatsby,remix,vite,webpack,threejs,d3,electron" />
   </a>
 </p>
 
 ## ⚙️ Backend
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,django,fastapi,flask,laravel,rails,nestjs,graphql,kafka,nginx,sequelize,prisma,hibernate,apollo" />
   </a>
 </p>
 
-## 🚀 Servers & Deployment
-
+## 🚀 Cloud & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,netlify,firebase,vercel,maven" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,firebase,heroku,cloudflare,docker,kubernetes,terraform,jenkins,githubactions,nginx" />
   </a>
 </p>
 
 ## 🗄️ Databases
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,elasticsearch,dynamodb,cassandra,supabase" />
   </a>
 </p>
 
 ## 📱 Android Stack
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,firebase,sqlite,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite" />
   </a>
 </p>
 
 > Also working with **Jetpack Compose** for modern Android UI development.
 
-## 🛠️ Tools
-
+## 🛠️ Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,gradle,maven,npm,yarn,bash,linux,ansible" />
   </a>
 </p>
 
 ## 🧑‍💻 Editors & IDEs
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,webstorm" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,webstorm,rider,pycharm,eclipse,neovim" />
   </a>
 </p>
 
@@ -83,5 +75,4 @@
 ---
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
