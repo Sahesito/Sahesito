@@ -20,7 +20,7 @@
 ## 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,nuxtjs,svelte,tailwind,bootstrap,sass,materialui,redux,jquery,alpinejs,astro,gatsby,remix,vite,webpack,threejs,d3,electron" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,nuxtjs,svelte,tailwind,bootstrap,sass,materialui,redux,jquery,alpinejs,astro,vite" />
   </a>
 </p>
 
