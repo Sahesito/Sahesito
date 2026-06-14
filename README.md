@@ -6,8 +6,8 @@ I enjoy designing systems that are simple, scalable, and maintainable.
 
 Currently focused on backend engineering, mobile development, and software architecture.
 </br>
-[![Spotify](https://skillicons.dev/icons?i=Spotify-Light.svg
-)](https://skillicons.dev)
+## 🎧 Currently Listening
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=TU_USUARIO&cover_image=true&theme=default)]([https://spotify.com](https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0?si=570602da55c64b57))
 </br>
 
 # 💻 Tech Stack:
