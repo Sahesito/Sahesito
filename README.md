@@ -14,7 +14,7 @@ Currently focused on backend engineering, mobile development, and software archi
 # 💻 Tech Stack:
 ## PROGRAMING LANGUAGES:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,kotlin,py&theme=dark" />
 </p>
 </br>
 
