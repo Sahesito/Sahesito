@@ -9,6 +9,7 @@ Currently focused on backend engineering, mobile development, and software archi
 ## 🎧 Currently Listening
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spotify&theme=dark" />
+  <link src="https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0?si=e99eb68587934e52"> 
 </p>
 
 # 💻 Tech Stack:
