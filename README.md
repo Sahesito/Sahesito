@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Erwin 👋</h1>
+ <h1 align="center">Hey, I'm Erwin 👋</h1>
 
 <p align="center">
   Full-Stack & Android Developer focused on building systems that are simple, scalable, and maintainable.<br/>
@@ -18,35 +18,35 @@
 ## 🖥️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin,swift" />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin" />
   </a>
 </p>
 
 ## 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,tailwind,bootstrap,jquery,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,tailwind,bootstrap,vite" />
   </a>
 </p>
 
 ## ⚙️ Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,fastapi,nestjs,graphql,kafka,nginx,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,nestjs,prisma" />
   </a>
 </p>
 
 ## 🚀 Cloud & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,kubernetes,githubactions" />
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,kubernetes" />
   </a>
 </p>
 
 ## 🗄️ Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,appwrite,ssms" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 ## 🛠️ Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,gradle,maven,npm,yarn,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gradle,maven,npm,bash,linux" />
   </a>
 </p>
 
