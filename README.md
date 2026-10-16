@@ -1,20 +1,8 @@
 <h1 align="center">Hey, I'm Erwin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+a+modular+monolith+with+Spring+Boot+%26+Angular;Learning+security+to+build+safer+systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Backend-focused developer building scalable, secure and maintainable systems.<br/>
-  Currently building <b>Zentaro</b> an <b>inventory & sales management platform</b> for small businesses.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  Full-Stack & Android Developer focused on building systems that are simple, scalable, and maintainable.<br/>
+  Currently deep into backend engineering, mobile development, and software architecture.
 </p>
 
 <p align="center">
@@ -25,51 +13,71 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-**Backend**
+## 🖥️ Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres" />
+## 🎨 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,tailwind,bootstrap,vite" />
+  </a>
+</p>
 
-**Frontend**
+## ⚙️ Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,nestjs,prisma" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
+## 🚀 Cloud & Deployment
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,kubernetes" />
+  </a>
+</p>
 
-**DevOps & Tools**
+## 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,appwrite,ssms" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,linux,idea,vscode" />
+## 📱 Android Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite" />
+  </a>
+</p>
 
-**Also:** Android development with Kotlin and Jetpack Compose
+Also working with **Jetpack Compose** for modern Android UI development.
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+## 🛠️ Tools & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gradle,maven,npm,bash,linux" />
+  </a>
+</p>
 
----
-
-## 🔒 Currently Learning
-
-- Secure authentication and authorization (JWT, Spring Security)
-- Common web vulnerabilities and how to prevent them (OWASP Top 10)
-- Secrets management and dependency scanning
-- Long-term goal: **cybersecurity**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahesito&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=tokyonight&hide_border=true&layout=compact" />
+## 🧑‍💻 Editors & IDEs
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,webstorm,pycharm" />
+  </a>
 </p>
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/erwin-marchan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mar.sosaer5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
