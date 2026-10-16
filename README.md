@@ -1,8 +1,19 @@
- <h1 align="center">Hey, I'm Erwin 👋</h1>
+<h1 align="center">Hey, I'm Erwin 👋</h1>
 
 <p align="center">
-  Full-Stack & Android Developer focused on building systems that are simple, scalable, and maintainable.<br/>
-  Currently deep into backend engineering, mobile development, and software architecture.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+multi-tenant+SaaS+with+microservices;Learning+security+to+build+safer+systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Backend-focused developer building scalable, secure and maintainable systems.<br/>
+  Currently working on <b>Habita</b>, a multi-tenant SaaS for condominium administration.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
