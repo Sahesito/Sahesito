@@ -6,7 +6,7 @@
 
 <p align="center">
   Backend-focused developer building scalable, secure and maintainable systems.<br/>
-  Currently building an <b>inventory & sales management platform</b> for small businesses.
+  Currently building <b>Zentaro</b> an <b>inventory & sales management platform</b> for small businesses.
 </p>
 
 <p align="center">
