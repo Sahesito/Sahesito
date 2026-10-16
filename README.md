@@ -22,73 +22,54 @@
     <img src="https://img.shields.io/badge/My_Playlist-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
+
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-## 🖥️ Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin" />
-  </a>
-</p>
+**Backend**
 
-## 🎨 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,tailwind,bootstrap,vite" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres" />
 
-## ⚙️ Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,nestjs,prisma" />
-  </a>
-</p>
+**Frontend**
 
-## 🚀 Cloud & Deployment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,kubernetes" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
 
-## 🗄️ Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,appwrite,ssms" />
-  </a>
-</p>
+**DevOps & Tools**
 
-## 📱 Android Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,linux,idea,vscode" />
 
-> Also working with **Jetpack Compose** for modern Android UI development.
+**Also:** Android development with Kotlin and Jetpack Compose
 
-## 🛠️ Tools & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gradle,maven,npm,bash,linux" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
 
-## 🧑‍💻 Editors & IDEs
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,webstorm,pycharm" />
-  </a>
+---
+
+## 🔒 Currently Learning
+
+- Secure authentication and authorization (JWT, Spring Security)
+- Common web vulnerabilities and how to prevent them (OWASP Top 10)
+- Secrets management and dependency scanning
+- Long-term goal: **cybersecurity**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahesito&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+## 📫 Let's Connect
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/erwin-marchan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mar.sosaer5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
