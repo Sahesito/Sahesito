@@ -74,8 +74,9 @@ Jetpack Compose for modern native Android interfaces.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    alt="Most used languages"
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="3D GitHub contribution graph"
+    width="100%"
   />
 </p>
 
