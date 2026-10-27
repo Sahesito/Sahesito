@@ -70,16 +70,6 @@ Jetpack Compose for modern native Android interfaces.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-view.svg"
-    alt="3D GitHub contribution graph"
-    width="100%"
-  />
-</p>
-
 <p align="center">
   <sub>Designed around clean code, continuous learning, and engineering fundamentals.</sub>
 </p>
