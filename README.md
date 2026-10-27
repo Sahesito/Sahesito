@@ -1,83 +1,84 @@
-<h1 align="center">Hey, I'm Erwin 👋</h1>
+
+<h1 align="center">Erwin Marchan</h1>
 
 <p align="center">
-  Full-Stack & Android Developer focused on building systems that are simple, scalable, and maintainable.<br/>
-  Currently deep into backend engineering, mobile development, and software architecture.
+  <strong>Software Developer | Backend Engineering | Android</strong>
+</p>
+
+<p align="center">
+  Building maintainable software through clean code, solid architecture, and practical engineering.
 </p>
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/3YGbae3i9KIQi6b8QQwnH0">
-    <img src="https://img.shields.io/badge/My_Playlist-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Playlist" />
   </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+## About Me
 
-## 🖥️ Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin" />
-  </a>
+I'm a software developer interested in backend engineering,
+Android development, and software architecture.
+
+I focus on building applications that are reliable, maintainable,
+and designed to evolve as requirements grow.
+
+Currently exploring backend systems, application architecture,
+and modern development practices.
+
+## Technical Skills
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,kotlin" alt="Programming languages" />
 </p>
 
-## 🎨 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,tailwind,bootstrap,vite" />
-  </a>
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,vue,tailwind,bootstrap,vite" alt="Frontend technologies" />
 </p>
 
-## ⚙️ Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,nestjs,prisma" />
-  </a>
+**Backend & APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,nestjs,prisma" alt="Backend technologies" />
 </p>
 
-## 🚀 Cloud & Deployment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,kubernetes" />
-  </a>
+**Mobile Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,sqlite" alt="Android technologies" />
 </p>
 
-## 🗄️ Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,appwrite,ssms" />
-  </a>
+Jetpack Compose for modern native Android interfaces.
+
+**Databases & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,appwrite,docker,kubernetes" alt="Databases and infrastructure" />
 </p>
 
-## 📱 Android Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite" />
-  </a>
-</p>
+**Tools & Development Environment**
 
-Also working with **Jetpack Compose** for modern Android UI development.
-
-## 🛠️ Tools & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gradle,maven,npm,bash,linux" />
-  </a>
-</p>
-
-## 🧑‍💻 Editors & IDEs
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,webstorm,pycharm" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,gradle,maven,npm,bash,linux,vscode,idea,visualstudio,webstorm,pycharm" alt="Development tools" />
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahesito&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    alt="Most used languages"
+  />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <sub>Designed around clean code, continuous learning, and engineering fundamentals.</sub>
+</p>
